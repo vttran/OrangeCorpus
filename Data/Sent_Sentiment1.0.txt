@@ -1,0 +1,643 @@
+Sentiment	Sentence
+0	Unfortunately it is plagued by a sporadic DNS bug as documented here: customer service is frustrating to deal with and unhelpful.
+0	I highly recommend you do not purchase this router.
+0	"I waited a while before reviewing this product because i wanted to give it, its chance to shine but its absolutely garbage."
+0	" Cons -Lasted 6 months; dropped DSL connections and self rebooted constantly Extremely unreliable wireless; had to reboot router daily Very long delay in establishing PPOE link to ISP Summary -Had a lot of confidence and hope given brand name but severely disappointed Actually shocked that any item associated with Cisco could be such garbage Cannot return to store now as past 1 month period Will attempt compensation from Linksys but not hopeful - buyer beware, brand means nothing"
+0	Always dropping connection and mine its hell to get it working this thing just sucks overall STAY AWAY.
+0	I did find the WiFi to be slower when trying to stream Netflix via either my old Wii or my new BluRay.
+0	It would go in and out and was incredibly annoying.
+0	"Cell phone service w/WiFi was also spotty, connecting, disconnecting over and over."
+0	"Every time the power went out, even it was for a second, I would have to pull the plug out of the router (that reset button on the front does NOT work), count to 30 and plug it back in."
+0	Sometimes this would take several tries before it would recognize my cable modem again.
+0	Setting your name/password to keep your neighbors out was a bit tricky if you do not read the manual or you forget that the pre-set log in and password is always admin for both (usually).
+0	"If you want a router that has better WiFi and will hopefully last longer than a year, do not buy this one."
+0	Bought it because - stupid of me - was pretty.
+0	After 6 months problems cropped up.
+0	"First my smart phone failed to see the router in the network even though its right beside each other, turns out I needed to reboot the router."
+0	"Then it reboots itself every 10 minutes or less, thought it was restarting because of the heat but nope."
+0	"Did a clean reboot, reinstalled the firmware, still restarts every 10 freaking minutes."
+0	"Called customer service, after navigating their options for 15 minutes and telling the guy on the other end my problem, the first thing he says is is your router properly plugged?, uh yeah, why do you think there are lights blinking?"
+0	"after that episode, gave up the linksys and bought another router from a new company (tenda) with the same specs for 1/5 of the price."
+0	"am now experimenting if i could use the linksys as a repeater wifi, an expensive repeater might i add."
+0	It decided to quit out on me after about 1yr and a 1/2 after I began to use it.
+0	do not buy this product unless you are going to just buy another one a year later anyway.
+0	But its not worth your money.
+0	"The connection was pretty cool, but the range was absolutely horrible."
+0	"I set it up downstairs and the thing reached up to my room on the second floor, but the minute I went outside the door it just all but disappeared."
+0	"My advice, do not waste your money on something that is just going to break on you, buy something worthwhile."
+0	"Besides, the set up for everything was a pain in the ass, I am used to hooking up computers and such but when I tried this thing it took two hours for the damn connection to come through!"
+0	It also went out at random times)
+0	"Called customer service for help on setting up a secure system, was told Id have to pay as it was past warranty......though we verified my purchase of their product."
+0	"Tried to set up a secure system myself and tho, fairly tech savvy, I gave up after multiple efforts."
+0	I got rid of this low quality product.
+0	The router has issues when used prior to doing the most recent needed firmware updates.
+0	"Without them, the wireless speeds are slower, connections can be finicky and there is a strange bug these routers suffer from that causes them to have DNS issues (you can read about it on the Cisco-Linksys forums where hundreds of other people have had this issue).After the firmware update however, there is an immediate improvement in speeds and connectivity is not just no longer an issue, but even stronger than ever."
+0	Where before it seemed like a 50-50 chance if you could even get someone logged into your wireless network.
+0	Only v1 and v3 are supported by DD-WRT
+0	"Do I tried setting it up with Linksys firmware to try the router out as is, and I could not even get through the browser based setup without it dropping/disconnecting the wireless connection"
+0	Essentially the entire router would suddenly stop routing connections to the internet for no apparent reason (wired and wireless connections are effected).
+0	"My computer will still be connected to the router, but I wont be able to access the internet."
+0	"Further, I cant log into the router itself once its in this state."
+0	The only solution is to reset the entire router by physically unplugging it
+0	"This happens randomly which is frustrating when I need a constant, reliable connection."
+0	"Occasionally it would fail to connect and Id have to power cycle the router, but only perhaps once a month or so."
+0	"It has always had inconsistencies in the speed, particularly when more than one device is accessing at the same time."
+0	"Sometimes it zips along very quickly, and other times slows to almost dialup speeds (I have a 20 Mbps connection)."
+0	"Its not my ISP, as when the laptop is plugged directly into the wall, I do not have these speed inconsistency issues."
+0	The last 6 months have been a nightmare.
+0	I have to unplug it at least once daily when it decides to suddenly stop working.
+0	Most commonly it decides that my wireless security key is incorrect- although it has not changed and my computer and other devices have been set up with the same password since I got this router.
+0	"It must be power cycled (unplugged, let sit for ten seconds, then plugged back in) before it will recognize the security key again."
+0	"I tried entirely resetting it and then setting up again with the same key, with no change."
+0	"As this is the second Linksys wireless router I have had substantial reliability issues with, I wont be buying another of their products."
+0	Linksys execs should be put in jail for fraud.
+0	"They have been providing the mass market with a pile of plastic junk that works for awhile, once you get it configured, by yourself, because the included software never works, but will very quickly fail."
+0	"I know they have plied us with cheap plastic, wired and wireless routers because I have a pile of them in the basement."
+0	Customer support does not want to help you and tech support hopes that someone smarter than them will post it on the community support pages.
+0	"That is a pretty good deal for the corporation; market $50 - $100 crap, hope it lasts through the warranty and pray any issues get supported and fixed by YOUR customers on the community support pages."
+0	The warranty ended recently and so did the linksys wrt160nv3(cisco) it first started having connection problem( dropping the movie stations) when I called customer services I was told that the router was out of warranty and that I should buy another because this one could not be repaired.
+0	The only issue I had was with setting the router up with the cd
+0	I was extremely terrified about purchasing this router after reading about all the negative comments.
+0	What a pain.
+0	"while easy to set up, it constantly refuses to recognize our wireless devices and causes endless problems."
+0	i pull it offline many times to connect directly to DSL modem because it fails so frequently.
+0	"I have one major problem with this item, it has to be reset at least 3 times per day."
+0	"If I had not waited so long to connect the router, it would have been returned to amazon"
+0	"This router worked fine for about the first yr that I had it then out of nowhere it started dropping signal or the signal would go from 54 mbps to 11 mbps to 1 mbps, so I would power cycle the router & it would be fine for maybe 10 hrs for it to only do it again."
+0	for a couple days then out of nowhere it would do it again & then I would have to power cycle the router several times in one day & then once again no probs for several days to maybe 2 wks to only have it do it again.
+0	Then recently it is doing it again to where I am having to power cycle it almost every hour & sometimes it would not even come back on.
+0	I previously had a Belkin G router that lasted 5 yrs before it ever did this & cost 1/4th the priced of this router.
+0	"Now if I power cycle the router, it automatically only goes to 1 mbps & even my desktop which is hardwired has issues even though it says I am connected at 100 mpbs(I know this is not the true speed, but still getting about equal to dial up)."
+0	"I have tried updating the software & recalling the software, changing the channels, & everything else that I have seen posted online and nothing has worked."
+0	"I was so happy to be getting an N router, but was quickly disappointed when I discovered that despite it being an N router, it was not as good as my previous G+ router for streaming and gaming."
+0	"If you want to get a router that works really well, get the WRT-400N instead."
+0	That router is exactly what I hoped this router would have been.
+0	"The 160N will really frustrate you, if you want to do more than simple Web searches."
+0	First off I bought it because of the good reviews.
+0	I have an older model yeah we all know which Linksys i am talking about.
+0	"Anyway, mine came in earlier than stated"
+0	"On with the router, well...I have not been able to even use it yet."
+0	It says just pop in the disc and follow the on screen instructions.
+0	"Well I did that, but I cannot pass the 4th step after set up."
+0	For me I keep getting an error.
+0	"I tried everything of my knowledge to try get it to work, but the error still keeps popping up so I cant use this router...I am using it on a Windows Vista computer too, a Studio 15.5 from dell"
+0	If anyone knows about this problem please let me know how to fix it...Since I cant use the router...my review is this so far...hopefully I can figure out whats going on to give a full review of my experience when its working...
+0	In one year I went through:1.Belkin.
+0	It broke.2.Bought another $50 Belkin to replace the Belkin.
+0	"It also broke, sent in for a replacement.3.Bought a Linksys."
+0	Also broke.
+0	"Used the belkin replacement I had.4.Belkin did not work out of box, even though it was BRAND NEW.5.Decided not to send anything for 1-year warranty replacement, hammered them down in my kitchen in frustration.6.Told my problems to a best buy seller who told me to buy another linksys and if it failed to install dd-wrt firmware and it would keep it going for the next 3 or 4 years until it broke down naturally."
+0	I gave in and bought my second linksys.
+0	Not to my surprise it started dropping connections within 2 months.
+0	Had to be restarted multiple times daily.
+0	in one year I went through 3 belkins.
+0	If this one fails on me I am going for the airport extreme so that I can connect an external hard drive and make back-ups
+0	There should be a class law suit against these people.
+0	I think the instructions could have been written better.
+0	Was having problems with my prior router: It would not consistently reach rooms on the other side of the house.
+0	I constantly had to reboot my laptop because the networking driver would get garbled.
+0	About month later it stopped working so I purchased this model and it worked fine.
+0	The router would not allow all the same computers I had at the old place connect to it.
+0	So I called Linksys for tech support and they wanted to charge me $49.99 for tech support.
+0	I have an issue with a product shutting down just to get customers to pay for tech support and you can include all of this in the manual.
+0	I have a large house so the upstairs receives hardly any signal at all.
+0	I increased my service to gain better speed and added this to extend the range but this did not better the upstairs signal much at all.
+0	We purchased this router only a couple months ago and it is already not working.
+0	It wont register there is an internet cable plugged into the port.
+0	"I tried resetting it, changed ports everything and it still wont work."
+0	"The issue was that it would sporadically redirect anyone on the network from Facebook, for example, to some other site, like a MySpace page or somewhere else (once I got redirected to a gay bed and breakfast website"
+0	The only way to fix it is to power off the router.
+0	Its very frustrating.
+0	Who knows what kind of a security leak that thing has.
+0	Some of the included software would not load.
+0	Do not know if it an OS conflict (WIN7) or not
+0	Its not quite that easy.
+0	"After having my daughter in law talk me through plugging it into the computer and modem (I had to keep the modem), it still did not work."
+0	I then called the products customer service and even that lady was on the phone for an hour with me sorting out why it would not work.
+0	THIS ROUTER SUCKS A FAT ONE!
+0	"I have 20MBPS service, and it often slows down to 1mbps, and when I say often I mean all the time."
+0	"I try to reset it, call customer service, but no avail."
+0	This router is absolute garbage.
+0	Id rather give my 50 bucks to someone to kick me in the junk and get the pain over with rather than the slow frustration that this thing causes me.
+0	I want to kill it office space style.
+0	This product work is one of the worst Ive bought.
+0	"I own it, I paid a crap load and all it did was make me hate Linksys like I hate HP."
+0	How many times have I reset my server or reconnected my connection?
+0	"Meaning, buy this but know it is a living pain in the ass especially if you want to download anything that is a sizable download as you WILL 100 percent lose your connection and thus the box of this product should simply read bonus: will cause you subtle stress, enjoy!."
+0	I simply accept it but its like accepting that you have Herpes or a wife that loathes you.
+0	Thank you Linksys for creating a truly crappy product and if you worked on this product as a designer all I can say is your a truly untalented and stupid person whose work did nothing but make many other people unhappy.
+0	You probably should have simply trafficked in human slavery or drugs and would have at least made more money but produced the same human misery
+0	"To make my point, in the time it took to write this review my linksys stopped working."
+0	"When I first purchased it a year ago, the firmware was pretty lousy."
+0	It seemed like it constantly had to be reset otherwise it would get really slow.
+0	"I must say, I saw no improvement with the DD-WRT firmware over the latest Linksys firmware."
+0	I thought I was making a mistake buying this.
+0	My only issue with it is that the frequency throws off my Nintendo 64 game system.
+0	I have to keep it 2 ft away for it to play.
+0	I will never throw away my money on Linksys again.
+0	Overpriced with marginal signal range.
+0	Every router I have owned from Linksys magically quits working one year after the warranty expires.
+0	In order to get it working again you have to call their customer service department which charges you $40 to walk you through the set up again.
+0	"Even though their CS is efficient in getting your router back up and running, it will not only cost you money, it will cost you time because you will be on the phone for hours, these people are like monkeys on drugs or foreign robots!"
+0	My last Linksys router made it to the garbage but not before I beat the living $^*#%^& out of it with a hammer!
+0	If I could give this ZERO stars I would but I guess the lowest you can go is ONE star.
+0	"Got this router,looks nice,but unreliable,sometimes when i want to connect to facebook it takes me to myspace,and its a big problem with this router you can check on the linksys forum."
+0	"Sometimes it would put out a signal but i still can connect to it,another problem you can see all over the internet."
+0	"In short,when it works,works great,when it does not sucks real bad,so i am looking for a new router and i bought this in novemeber of 2010 thanx linksys for no firmware update and just selling shoddy products"
+0	No help
+0	Will not purchase from Cisco China Goods ever again.
+0	"If you are looking for a router whose wireless rarely works, pre-sets parental controls making the internet nearly unusable and then requires you to register with linksys to change, randomly diverts you to other pages (type in facebook, sends you to myspace), is extraordinarily slow even when hardwired, charges you for customer support, and needs to be rebooted once per day in order to function, then this is the router for you."
+0	"Avoid the pain, annoyance, frustration, and lack of function."
+0	I cannot recommend this router to anyone.
+0	"The included software, which is useless, does not work."
+0	"At random times, it just shuts down, or stops broadcasting a connection."
+0	"I get constant error messages, such as 404 - Not Found, or DNS errors, and Ive tried everything Ive found to try and fix it."
+0	Linksys Support is absolutely no help.
+0	Their representatives know absolutely nothing and put you on hold for extreme amounts of time
+0	Overall I am simply not a happy user.
+0	instructions are poor and the shareware is only good for a 10 day trial
+0	This router simply cannot handle a Mac and a PC connected simultaneously.
+0	"And if it does not, network speed is ATROCIOUS."
+0	I think quite a few people had this problem (I have v3).
+0	"It worked a bit better when computers of the same operating system were connected, but it would still crash occasionally."
+0	I tried to contact customer support and they were utterly useless.
+0	Made me send my model number three times and gave me canned responses.
+0	DO NOT BUY THIS.
+0	"Like others, Ive had many problems with the router."
+0	"I was hoping that going to DD-WRT would make things better (I was not afraid to dabble in that), but unfortunately it just lead to more headaches."
+0	"Ive decided to ditch this router and go with something newer ... looks like there are N-routers that are just as cheap, and hopefully they wont be as problematic."
+0	Immediately upon using this router we started having Invalid URL problems on our wireless laptop and computer.
+0	I  called Linksys while it was still covered under warranty and  complained of invalid URLs.
+0	"They pointed the blame to the router, my new computer, etc., until the router was out of warranty."
+0	"The invalid URLs were so bad ~ I could not use the web, mail, the laptop, or main computer .."
+0	I finally had to connect the computer directly into the modem and threw away this horrible router.
+0	This device out of the box for me was a pain.
+0	I could hardly connect any of my devices easily and connections often dropped and froze.
+0	I was to the point where I was just going to return the product and give up.
+0	I found out that the hardware in the device is not to blame but it was the firmware that has many issues and limited compatibility
+0	NOTE: v2.0 is not supported.4.
+0	I had some difficulty at first because i had a router set up already but once I figured out what I was doing wrong it has been working just fine.
+0	"After way too much time, I discovered that the hardware can do the job, but the firmware it is running from Linksys wont allow it."
+0	"Even as a techie, this was way more than I had bargained for and took way too long."
+0	"Why build a product that has built in features, only to cripple it to have less capability?"
+0	So in the end the hardware might be 5 stars but the firmware only 1 star.
+0	"But I get a TON of DNS problems, and have to reset the adapter constantly."
+0	Do not buy this POS.
+0	"I found I could only run in B-G mode without recycling it at least once a day, otherwise it dropped all connections and failed to respond."
+0	Today it stopped making the handshake to my old Motorola cable-modem.
+0	"Modem is fine, bypassing the router worked, so then I checked the router."
+0	"Would not handshake the modem, even after a complete reset."
+0	"It took me two complete evenings to set it up for connection to iMac, iBook, XP and iPad."
+0	"In the end, the link is keeping dropping, and extremely slow."
+0	"I must say the router was awfully made, i am wondering where is the drive to excellence spirit in cisco nowadays?"
+0	"I installed it in just a couple of clicks, it has a bug trying to get the connection the first time but I think it was the Windows OS"
+0	"It worked OK for 6 months, then it started to have troubles switching on:lights just blinked forever unless I re-connect power"
+0	"I installed the latest firmware, but the start-up problem did not go away"
+0	Instead I started to have troubles with wireless connection from my laptops
+0	The customer support chat told me that I could not get free chat support because the item is no longer under warranty.
+0	They want $29.95 to help fix the problem.
+0	I will never buy another Cisco product!!
+0	"I called my router company (per Sonys instructions)Cisco Linksys to get the ports open, and they would open the ports needed...for $29.95 (or somewhere in that ballpark)."
+0	The customer service is hard to understand (outsourced from another country I suspect).
+0	"I suppose if you are a computer programmer this will be okay, you will know your way around, but if you are the average Jane you will be screwed."
+0	I can pay $30 every time I need help after my first year or...buy another router.
+0	I am using this router for 1.5 year and I have not any problem until now.
+0	"I have tried many suggestions I found on Amazon as well as other forums, but to no avail."
+0	Promotional software is helpful but is only a trial so what appears to be something special is actually extra.
+0	Seems to need fewer occasional resets to keep it alive than most routers.
+0	NOT happy with this product
+0	"slower than my G router (also linksys)took forever to set up , and more than 2 hours on the phone with linksys finally working, and SLOWER than my old router"
+0	Cons- It needs to be power cycled on occasion.
+0	"When I notice things moving a little sluggishly, I reboot it, maybe every 3-4 months?"
+0	You are better off with the free version because customer service is almost not there.
+0	Unfortunately I ended up buying this router after reading the reviews on Amazon.
+0	The router was running super slow via wifi.
+0	With direct connect cable speed was OK but via WiFi it was unbelievably slow.
+0	Unfortunately the router started dropping connections all the time.
+0	This router is a piece of junk and to save your time and money....DO NOT BUY IT.
+0	I personally find the time spent trying to fix this junk more valuable than the $ spent.
+0	"Cisco tries to force  its software for management, not good to do that."
+0	Wireless stability not good.
+0	DO NOT BUY THIS PRODUCT
+0	"I purchased one over a year ago and since last month, it started randomly dropping connections."
+0	Very annoying.
+0	"Customer Support tried to help out but, at the end they decided to send me an older version"
+0	So KEEP AWAY from this product.- A very unhappy WRT160N v3 user.
+0	This has to be by far the WORST product I ever purchased (next to Belkin) for a router...It drops wireless connections like Iron Man drops bad guys....very lousy range and signal strength...Bring back the antennas...How do you expect to get any range with no external antennas and 1/8th of a watt power??
+0	NONE of them worked properly.
+0	"First one died, second one was unstable."
+0	Do not buy this item.
+0	"I love the Router, I did not like the fact that when I bought it, It was not restored to the factory settings so I had to figure that out while having the previous owners password and username on there, After about an hour I figured it out, Works great for what I needed it for, I am running a laptop and a ps3, The Laptop is my media server for the ps3 and I have not had a problem with it, I do not know about running lots of things off of it but for what I needed it for I cant complain, And Especially when it came to the price, Cant beat it"
+0	"This routers wireless performance is very bad: slow speed, dropped connection frequently."
+0	"After one year, it is completely dead."
+0	"When I contacted Linksys customer service, I was told its no longer supported."
+0	"I usually use my laptop, few meters away from the router (same floor).But the wireless signals disconnect very often."
+0	The wireless signal lasts possibly for few minutes in the worst situation.
+0	Within four months time it stopped working.
+0	When I contacted the customer support they told to upgrade the firm ware and asked to pay $30 for that.
+0	"As the unit is all black, it is a little hard to see."
+0	"I upgraded my firmware (v2.0.02) preloaded, with the v2.0.03 from the Linksys website, and it killed my router."
+0	I was on the phone with CISCO/Linksys Support for almost an hour and could not connect to the router at all.
+0	This router is HORRIBLE
+0	"But do not try to transfer large files!For example, I have a few TIVOs in my house, and I transfer entire programs and movies from one TIVO to another (in another room).All works well for a few minutes, and then the router stalls."
+0	It stops transferring packets
+0	"If you are lucky, you might get the entire file transferred."
+0	But do not hold your breath
+0	Same problems.
+0	So do yourself a favor and stay away from this router.
+0	It is only good for a landfill.
+0	I got slower download speeds from this router than when I bypassed it and connected directly through my dsl modem.
+0	After about a year the thing started to fail.
+0	"It was out of warranty by 4 (yes, four) days and they refused to do anything about it."
+0	there is a reason this router has so many 1 star ratings.
+0	"As for Ciscos customer service, its not really a service at all."
+0	"Over several days trying to install the router (both on Mac and Windows) without ever getting to the point where the installation could find the router, I called Linksys tech support."
+0	After two hours on the phone with a technician and providing access by the technician to my computer there was still no way that the router could be installed with the software provided with the router
+0	"Disconnecting every 10 minutes, and I had to restart the router every time."
+0	"The problem was solved for a year, then started again."
+0	"I called them again, this time they asked for $15 to fix the problem."
+0	"I rejected the offer, since I had to pay them $15 every year to fix the problem."
+0	"This router is the worst router I had, I bought it for almost $100CAD, but it was not worth a penny.+ had a good range.- disc every 10 minute, you have to pay Cisco to get the instruction to solve the issue (they may resolve it for a year, then you have to contact them again, and again), too expensive"
+0	"Not Recommended at all, since you have to spend money on it every year."
+0	"However, I was getting Cannot connect to WRT160N with WPA errors on two separate Windows 7 laptop machines located within a very strong signal strength distance."
+0	"I spent considerable time looking through the manufacturers support forum and found some complex instructions that had me changing beacon thresholds, fragmentation thresholds, and RTS thresholds."
+0	"However, the connections would intermittently drop and then have trouble reconnecting"
+0	"After a while, I gave up this WRT160N and purchased a cheaper device from a competitor."
+0	"In summary, the Cisco-Linksys WRT160N was a waste of my time and money."
+0	The big problem is with its DNS caching.
+0	This was never fixed in the latest firmware and continues to be an issue
+0	There is no way to configure the router not to set itself as the first DNS server when using DHCP.
+0	Whats frustrating is that this has been a known issue for this router for many years and Linksys/Cisco do not appear to be willing to do anything about it
+0	"There are better routers out there for similar money that wont have these same issues, though."
+0	Linksys offers a 90 day warranty when others only offer a 30 day warranty and their quality control seems to be very good.
+0	"Unfortunately it comes with an odd but very serious problem--ignored by Cisco--where it will randomly redirect your request to Facebook to MySpace, Google to Wikipedia, etc"
+0	This router messes those up with regularity.
+0	While its amusing at first--hey Facebook is now MySpace--this is a serious security issue.
+0	If the router chooses to redirect Google to a site that looks just like Google--but is controlled by a third-party--you could enter your username and password into that third partys system.
+0	The third party could then use those credentials to access your account.
+0	Imagine if that happened with your Amazon account?
+0	"Or your bank?There is a two-year old thread on Ciscos site about this, with no solution (Google WRT160N dns).This is unacceptable in a product from a major vendor."
+0	"I made the mistake of buying this router, but you should not."
+0	Do not buy this router.
+0	Our problems began almost immediately.
+0	"If we tried to connect a second laptop, the router would usually drop the the first connection."
+0	Sometimes we would have to resort rebooting one or both computers.
+0	"It made no difference how we attempted to configure the network, one or both computers connected wirelessly or through the wired ports, we could not count on having both machines connected to the internet through the router at the same time"
+0	We experienced the same problem whenever anyone in our neighborhood turned on their network.
+0	"Whenever a neighbor did that, our router immediately forgot who it was and what it was supposed to be doing, and required a power reset"
+0	Quite often the router would not let my wife connect to her Facebook account.
+0	"If we connected her machine to our cable modem directly, she would have no problems"
+0	Watching online videos was another hit or miss proposition.
+0	"Very often, we could watch 10 to 20 minutes of videos, before the router stopped functioning, and we would have to perform a power rest"
+0	Customer support was problematic.
+0	I have a hearing disability and understanding anyone with a heavy accent (read offshore) is very difficult
+0	This is a router that never should have come to market
+0	I strongly suggest you do not purchase this router and I would have strong reservations about purchasing any home or small business router made by Cisco.
+0	But wireless is not so good.
+0	"My main machine is wired, and connects just fine, but I have had nothing but trouble from this router when trying to connect laptops wirelessly -- three different laptops, three separate occasions -- even when using its installer via USB drive."
+0	"Signal strength can be medium to poor, with the laptop only inches away from the router, and throughput is horrible."
+0	"Before you purchase this item, please be aware that this router has been shown to redirect users to random websites (e"
+0	I WOULD NOT buy this router unless you are prepared to invest time dealing with the inconvenience (and potential danger)arising from this redirection problem.
+0	The specs should say the range of the router but this is where its not so good if you live in a two story house or a large single story one.
+0	If I use my pc on the kitchen or further I notice my signal drops by half.
+0	"As you can read, the range is not so good."
+0	"And then, it began to have disconnection problem first once a day."
+0	And the disconnection problem frequency increased every week.
+0	Now it is more disconnected than it is connected to the web.
+0	Every time the disconnection happens I have to unplug the power adapter from the power outlet and wait several minutes till its cool down
+0	"If you are looking for a reliable router, I would definitely not recommend this one."
+0	This is where things started to go wrong.
+0	"However, when I connect through the Linksys WRT160N router, the connection speed degrades throughout the day to 4 Mps."
+0	They did not offer to help me upgrade the firmware.
+0	I am not sure I will stick with Linksys.
+0	"SO, I follow the router CD installation instructions, attempted a network repair using their crummy software utility, disabled the software firewall on my PC, performed a firmware upgrade, did the DD-WRT thing as well, you name it, I tried it!"
+0	"After about 3.5 hours, I was so put off, I took the router outside and put a hammer through it and proceeded to tossed it - in the garbage!"
+0	Please do not waste your time and $$$ on this piece of junk.
+0	My biggest complaint about the router is its advertised insistence that set-up was a piece of cake.
+0	Nope it was not.
+0	"It should have been, but was not."
+0	Called Linksys/Cisco tech support -- the representative had no interest in really helping.
+0	"The Linksys rep should have done what our network engineer friend did, but he either was not allowed to, did not know how to, or did not want to."
+0	And that to me is very disconcerting.
+0	Linksys support is nothing like it used to be.
+0	"I managed to establish a wireless connection, but could not maintain it for any extended period of time."
+0	It would even drop connection in the next room after a few minutes.
+0	"This is where the nightmare began..My laptop (a 15 Macbook Pro from 2008; Ive never had problems connecting to any other wireless networks before) detected the network at full strength but refused to connect, and consistently displayed connection failed or connection timeout errors."
+0	"I flashed DD-WRT onto the router, but that did not help anything."
+0	"For reference, my laptop was sitting RIGHT NEXT TO THE ROUTER on my desk"
+0	"At this point I was wondering if it was a problem with my laptop, so I borrowed a friends and tried connecting from there."
+0	"At first, his laptop would not even detect the network from the next room."
+0	"After moving it closer, it just gave the same error messages I was receiving."
+0	"From my experience with the WRT-160Nv3, I conclude that it may make a decent network router if you plan on only using ethernet (for 50 bucks its hardly worth it), but it makes a downright terrible wireless router."
+0	Seriously.. the wireless part did not even work.
+0	"This was a major disappointment, as Ive had great experiences with all the Cisco/Linksys products Ive used in the past."
+0	"Please, do not even consider buying this product unless you are a glutton for punishment."
+0	"Linksys KNOWS the firmware inside is flawed, and they are not making any efforts to fix it."
+0	You will have multiple sites that occasionally will not load.
+0	You will have multiple sites that will be mysteriously re-directed to other pages.
+0	The easy solution to these problems is to not buy this router.
+0	"When I am able, I just bypass the router and let it sit unused."
+0	its a good product but i wish it had a stronger out put or signal my netbook could reach better.
+0	"Did all the instructions implied,but no success."
+0	"Every once in a while I do have to unplug it for a quick reset though, because my computers wont be able to connect for some unknown reason."
+0	"My regret comes in that I was hoping this would improve the speed of my network enough for streaming HD Netflix movies to my XBOX without interruption, which it alone does not."
+0	"The speed now is good enough to broadcast HD, but interference causes it to adjust down to lower resolution."
+0	Its a bit annoying
+0	"It just randomly dropped the connection, and I mean in intervals of minutes or hours, not days, so I returned it."
+0	"Be careful with N technology, it seems a bit buggy on the receiving end."
+0	"If you want to stream HD and/or have more than basic surfing needs, probably best to pay for the dual band N routers for dedicated channels instead of this basic version."
+0	This router has an issue where it does not resolve DNS correctly.
+0	"I was a HUGE Linksys fan, but now I will avoiding them."
+0	Could not get it working at all even after several calls to support.
+0	It would never get an internet connection from my Comcast modem.
+0	Ended up returning it and getting a Belkin from Costco with similar specs and it worked without any hitches.
+0	The only (minor) criticism I have concerns the styling which means the router takes up more space than it should and cannot be stacked.
+0	"I called your technical support line and spoke to someone, which was nearly impossible to understand, for over an hour."
+0	He did not know what he was doing and at one point wanted me to PAY him to remote access my computer to install the router.
+0	Obviously its not my fault that the required information needed to install the router was not included in the package so its not my responsibility to pay for services that would not have been required had the information been provided to me in the first place.
+0	Finally I was able to get him to understand that I would install the router all I needed from him was the information not provided in the packaging.
+0	Now 1 year later the router stops working.
+0	No rhyme or reason just stops!
+0	"Again I call customer support and now I am told that I am out of warranty so I will have to pay for technical support or go online, which is impossible due to the fact that the router is broken."
+0	The women I spoke to was absolutely rude and repeatedly tried to pass the blame onto me.
+0	Saying there must have been a power outage and if I would have used a surge protector...Which I do by the way and I havent had a power outage.
+0	And if I had you are telling me that your products fail when there is an outage and now its my responsibility to pay to fix your defective equipment?
+0	I told her I wanted to speak to a supervisor and was told that was not going to happen.
+0	You need some changes to customer/technical support.
+0	They clearly are not helping you maintain customers.
+0	I am having trouble understanding how a router is working one day and just broken the next and clearly so does your staff as they repeatedly place blame on the consumer.
+0	I have never been more frustrated and disappointed with a company.
+0	I would not recommend this product or any other from this manufacturer.
+0	Complete failure as far as your customer service and technical support are concerned.
+1	This router works well... most of the time.
+1	This is a great router and worked without hassle.
+1	The software made it easy and it has the regular amount of control you would expect from a router now a days.
+1	It works so well that I forgot about it.
+1	I did not touch it for over a year and only then because I moved.
+1	One of them worked perfectly and the other did not work at all and as they were purchased from an unauthorized dealer there was no warranty.
+1	"After 1 month the working one still works great, but I had to purchase another of these routers to replace the broken one"
+1	"This is the first time I have had an issue about an non-working product so I would not use that to deter your purchasing the item, because overall (if they work) they work very well"
+1	A good item.
+1	We hooked it up and it simplified all the cords and hookups on my computer.
+1	Satisfied with this computer gadget.
+1	I set this router up for a small business and it works great.
+1	"Fast, secure, and reliable."
+1	"easy install, so far it seems to be matching the performance that was described."
+1	"Easy set-up simply put the disk in, follow directions, print the encryption code and connect!"
+1	"The range is exceptional, especially in our large home with all the supported electronic devices (laptop, tablet, printers and PC)!"
+1	This is a great router for the money.
+1	I now use the older brother as a wireless bridge to my Linux cluster in the basement and my wife is very happy about not having a network cable running across the kitchen floor to the basement anymore.
+1	"If you have problems with this router, return it and get a new one."
+1	"When you make thousands of something, there is bound to be a few getting past QC with a flaw or two."
+1	Just get your new one and enjoy.
+1	It was a decent router while I had it.
+1	Easy set-up and decent WiFi for my basic needs.
+1	"It was great for computers, laptops, and printers, but other devices, not so much."
+1	"If you just need a basic WiFi for 1 - 2 computers (no tablets, smart phones, printers, Netflix, etc.), it would probably work fine."
+1	I now have a much superior Apple Extreme Airport router.
+1	Ive bought and installed 3 of these over the past 2 years.
+1	"The first I bought for my home 2 years ago, the second I ordered and installed for a friend who wanted one like mine, and the third I ordered and installed a week ago for a family member"
+1	"Now after the update, its simple and works every single time."
+1	It was easy to install and has worked great so far.
+1	The price was excellent as we shopped around before looking at Amazon.
+1	I think Amazon has great prices on everything we have bought from you!
+1	I would recommend this to anyone looking to buy a router and looking for a great price!
+1	He suggested wireless because of the size of our home and said anything by Cisco-Linksys he highly recommended.
+1	The system is now up and running and working beautifully - thanks to Cisco-Linksys WRT160N Wireless-N Broadband Router
+1	"Good price, good product!"
+1	This router was easy to set up and configure to my home network needs.
+1	"However, after about a year, the router has become unstable and randomly freezes."
+1	Worked okay (but not great) for about a year.
+1	I really enjoy the Cisco-Linksys WRT160N Wireless-N Broadband Router.
+1	It allows my family and I to move throughout our home without having to be connected to a main hub and ethernet cords.
+1	"Also, the delivery of the router from misskrs777 was very prompt."
+1	But I must say it was a breeze to setup the WRT160N Version 3 it took me less than 5 minutes.
+1	The linksys device is a very good device.
+1	I like the security feathers on my device and my network.
+1	One of the feather I like is the network magic.
+1	It makes you see who are the intruders on your network and when they have connected to your network.
+1	You can remove the and block from connecting to your network again.
+1	Another feather is the test your speed system.
+1	Which help you test your upload and down speeds.
+1	Also you can test the speed in your area too.
+1	The linksys makes it so easy to monitor your network anytime.
+1	it is easy to install and setup.
+1	I have had great luck with all my other linksys items.
+1	"So I flashed it with the free firmware from dd-wrt, and its suddenly been working for one year now"
+1	Had a real headache to set it up but after it was installed it works just fine.
+1	The range is good and so far the router has had no problems.
+1	The new router solves all of these problems.
+1	Have been running it now for over a months - and have not had one issue with it!
+1	When I first purchased my first wireless network it was made from Linksys.
+1	So I pulled my old model out the closet and done the same thing and it worked too.
+1	And the other one did as well.
+1	This product works good and its interface was easy to use but it did not extend my range within the house that I was looking for.
+1	Easy to set up and the range is excellent
+1	I like it.
+1	"Since then, however its been a dream."
+1	Its wonderful to sit in my own living room and buy books.
+1	Id recommend it to anyone thinking of going wifi.
+1	"So far, this router has been perfectly reliable"
+1	Since the initial install I have not been back into the configuration for much of anything.
+1	It just works.
+1	"I do not have to power cycle it for no reason, and I have not had to update its firmware in some futile attempt to fix one glitch or another."
+1	It just sits there and works.
+1	Like it should
+1	"The range is good enough that my outdoor WiFi security camera works well, and the speed is good enough for streaming HD video"
+1	And it does not look half bad.
+1	"So far with the newest Linksys firmware its been stable, range seems better, it has not had to be reset, and works great with the new Motorola cable modem."
+1	"Works great with the Xbox, set up port forwarding, and have not had any NAT issues."
+1	But I got it and it works amazingly!
+1	Highly recommended
+1	LOVE THIS PRODUCT.
+1	Worth every penny.
+1	I have game systems and multiple laptops and absolutely no issue.
+1	Installation was a breeze and I am very pleased with this purchase.
+1	Id recommend it to anyone with a home network or small office in need of a compact yet powerful router
+1	Plus they offer free support on the router for as long as I have my internet through them.
+1	"The router was easy to set up; most of the time give adequate signal, but some time give very low signal."
+1	Also there is the parental control work well need to re-adjust otherwise block lots email from coming in
+1	"sets up easy with modem and wireless laptop, but a real pain to set up with ipod and kindle."
+1	"Apple routers (in my experience) have been pretty stable also, but you Window fan boys might not like to hear that."
+1	Really easy set-up.
+1	The software walks you through the whole thing.
+1	I was able to connect my iPod Touch 2nd generation without any problems.
+1	PCs connected without any problem.
+1	Very happy with the product.
+1	"Just to clarify, THIS CAN EASILY BE FIXED."
+1	This can be done by flashing the DD-WRT firmware for this particular router on the DD-WRT website.
+1	"By doing so, how the router operates is completely re-worked for the better and drastically increases this devices performance and usability."
+1	"After flashing DD-WRT, I noticed faster speeds, better range, all devices connected accordingly, and no dropped or frozen connections"
+1	This router is amazing once you follow my steps provided and hopefully it works for those of you who try this!
+1	These steps should not take any more than 20-30 minutes if you follow the steps correctly.
+1	"I am on my third one of these WRT160N routers, they are easy to set-up and configure, but the new design makes these things run too hot and when they get hot they stop working reliably"
+1	"I have mine set-up in a closet that allows it to be in reach of 7 wireless components, including an XBox360, WII, Nintendo DS and DSi, Two laptops and a remote desktop."
+1	The refurbish units last as good as the new one did.
+1	Highly recommended especially for novices who simply want wireless in their house.
+1	I am Glad i bought this product.
+1	"Its amazing it got the look, and the use."
+1	I mean i can get 100% of the usage of this.
+1	"I do the printing, I use the Wifi from my blackberry, and i can get online from any spot of my house with my laptop."
+1	Just great.
+1	"When it works, it works."
+1	Did some research on ROKUs website and the WRT160N was tested for compatibility.
+1	I have the WRT 160N V3 device.
+1	"Quick connection, no problems and superior picture."
+1	"For about 100 bucks, you cant beat the deal."
+1	Streaming video is the BOMB.
+1	Great product!
+1	"Its a great product, once installed, I connected my cell phone and my laptops in just a click and the speed is phenomenal."
+1	Its very easy to set up and use.
+1	Other than the range I like it very much!
+1	"Great router, i run my ps3 wii two computers and now my sat receiver."
+1	"Easy set up, great range and speed!"
+1	For 44 bucks try it out (it sells in Walmart
+1	"Okay, they will help you set up the router if you need help."
+1	"That is nice, but buyer beware!!"
+1	"They tell you that you can do it yourself, however I did not have the admin code and passcode required to get in the system to make changes myself."
+1	"It works well, but if you buy an updated device after the first year you have the router and need help (like needing ports opened on your router, as was my case) they will only help you for a hefty fee."
+1	Very good router for its price.
+1	This one surpassed my expectations.
+1	It was easy for me to set up.
+1	And it gives me great range.
+1	It streams movies downstairs with no problems at all.
+1	Very glad that I bought it.
+1	"The wired connections work great, but the WiFi is flaky."
+1	"When the WiFi works it is fast, but I have to reset the router every 2-3 days to make sure that my wireless devices can connect."
+1	Fairly easy to set up.
+1	The N speed is nice for my wife who has that capability built into her laptop.
+1	The router was very easy to install.
+1	The walk through instructions were very clear.
+1	Setting it up was fast and easy!
+1	"It looks good, runs cool, has blinking lights"
+1	I just login to the router with the 192.168.1.1 and setup the wpa2 security/password.
+1	"I play online games with no issues, make phone calls with google phone."
+1	It has given me no issues when it is working properly
+1	"It has been working fine since, I have been streaming LOTS of netflix and surfing lots of WWW and it has not had an issue since"
+1	Overall I am satisfied with this router.
+1	Its not perfect but its better then the alternatives from Belkin/D-Link/Netgear.
+1	It was easy to setup and works well.
+1	No dropped connections at all
+1	Now I do not even remember the last time I re-booted this one !I would recommend this product to anyone looking for peace of mind ..
+1	I was unable to set it up myself but the Linksys tech was very nice and patient with me.
+1	We got it set up it is working great.
+1	Lots of people complained about its unreliability however few people mentioned that with the DD-WRT software the router would work fine.
+1	Anyhow...I bought it and initially installed it with the default Linksys firmware.
+1	After installing this firmware the change in speed was dramatic - as good as with direct connection via LAN cable.
+1	"Much, much better the Linksys 54 G"
+1	This is a good router and gr8 value for money but..the firmware should be upgraded as soon as you get it since i encountered a lot of issues with the old firmware.
+1	"After the upgrade, router had solid performance..no complains thus far..UPDATE: router started dropping connections so i installed dd-wrt firmware and its better than ever..no probs and incresed range and speed."
+1	Switched this N router for an old linksys G and internet is stable and running 10 times better.
+1	"Set up was a snap, just plugged it in to the wall/modem and navigated to the home IP address, where I set the name and password."
+1	"For a simple home network, what else do you need?This router replaced a very old router that was humming when plugged in, and had been heat-stained from white to yellow."
+1	"It was having shoddy performance, and replacing it with this router made a world of difference."
+1	This router does exactly what it is supposed to do and does it well.
+1	Ive had it hooked up for a couple of weeks now and its working just fine with both my primary laptop and my supplemental one.
+1	"If you are looking for an inexpensive router, this is a good one to get."
+1	it works well as a wired router
+1	"It was the only one with sufficient range to reach a repeater through solid masonry walls so that my entire apartment had WiFi coverage, and the only one that maintained a constant connection with the repeater (the Netgear and 2Wire routers I had tried previously simply could not stay connected to a repeater)."
+1	"Yes, the WRT160N did drop connections with clients until I upgraded the firmware to the latest version."
+1	"With that problem solved, it appears to be rock-solid in performance."
+1	The router does not come with much documentation but fortunately does not need much.
+1	Nice to see this one now supports WPA2.The one thing that was different from my old router is this one has a power switch located in the middle of of the LED indicators.
+1	Installation was flawless and quick.
+1	I was provided a $15 discount on a $69.99 pricing for the new E1000.
+1	"Sure, it is easy to set up."
+1	"And it does, after a fashion, transfer packets across a wireless-G network"
+1	Very nice and easy to setup
+1	Nice futuristic design.
+1	Looks awesome on the table
+1	Great compared to my old netgear that did not have support unless you call India call center support and it was not working and no repair
+1	This router is perfect for my apartment.
+1	Very easy to set up.
+1	If I do have any issues they are solved by taking the power cord out and sticking it back in.
+1	I love how small and flat this router is.
+1	The Windows 7 routine worked without a problem and in just a couple of mouse clicks a secure network was set up that is working flawlessly.
+1	The WRT-160n works well and has a greater range than the WRT-150n that it replaced
+1	"Recommendation: If you have a problem with the Linksys installation software, try the Windows router installation routine."
+1	The router was very easy to setup.
+1	"I have both macs and pcs in my house, spread across two floors, and everything works flawlessly."
+1	I have not had any issues yet.
+1	"Worked for almost one year, problems start."
+1	I called Linksys and they provided a software on their website to upload on the router.
+1	The Cisco-Linksys WRT160N looked good on paper.
+1	I installed the competitors device today and it was working correctly from the get-go.
+1	"Moreover, its been up all day and the connection speed seems much faster"
+1	"The competitors device is cheaper, faster, and far more reliable for my environment"
+1	"i opened up the box, unpacked it, plugged it in and was done."
+1	"I have the router in the basement, and my son has is Xbox 360 on the 2nd floor and we get full bars and no lag time playing online!"
+1	Very strong signal through the basement ceiling and all the way to the 2nd floor.
+1	I would call that impressive!
+1	the range is good enough for my home and the speed is up to par.
+1	"Super easy to install, just insert disc and follow the easy instructions."
+1	You will be online in no time.
+1	"Love this product, had been using for a while and have not seen any problem at all, I am strongly recommending to buy it."
+1	I LOVED ALL THE STUFF I BOUGHT OR WAS FREE.
+1	"Usually, this router works just fine."
+1	I use it to support a number of devices in my home and have never had a problem with it dropping connections.
+1	"Its fine for what it is, and if you can find it cheap, it will do the job."
+1	This product does exactly what it is supposed to do.
+1	I am not technologically savvy but I was able to set this up.
+1	There was a problem with the set up and I was able to call the 800 number and get free assistance.
+1	if my network had not outgrown this wonderful device i would till be using it thank you linkys for such wonderful products
+1	This router is the same as the one I replaced due old age.
+1	This is one of the few refurbished products that I have had good success with.
+1	"I have purchased at least a dozen of these in the past 6 months and every one has worked great so far with no drop-out, also, the range on this product has been excellent."
+1	"I highly recommend this router... and for the price, how can you go wrong!"
+1	I purchased this for someone else to use and I believe it to be just fine as I have heard no complaints.
+1	"Simple and easy to setup,required only one try."
+1	Continued using hard wire connection and wireless for remote solar monitoring equipment.
+1	"Very easy to install, the performance is excellent."
+1	No complaint with this router
+1	Cheap and reliable...
+1	This router is easy to set up--no problem.
+1	"Well-priced, easy to set up and sleek."
+1	Installing the router was easy enough.
+1	"We found out from experience that using the CD was not necessary, that Windows 7 and Vista would let us easily install the router"
+1	Since installing the new router we have had no problems
+1	"This router is great, if your machine is connected via ethernet"
+1	I have no problem connecting and using those same laptops at other locations
+1	"So far, everything has worked fine."
+1	"The setup was easy and fast, way better than my previous Linksys G-router."
+1	Just follow the easy steps including installing the program.
+1	My computer sees the network and connects to it automatically as it would with any home network configured.
+1	The movie will take a couple of seconds to start the streaming and play but after that there is absolutely no interruption.
+1	I bought this product 1 week ago and I installed it without problems.
+1	"I put the router in a second floor, and it has some range signal in the first floor, therefore I am happy, because I can use my laptop with Internet anywhere in my house."
+1	I really recommend it.
+1	it worked well with my XP operating system.
+1	He told me that the router was easy to set up and to buy a refurbished one because they were just as good.
+1	He told me that Amazon had the BEST price on this router from another store.
+1	"Very, very easy to set up with my AT&T DSL modem and my wireless computers, printers and scanners in my office."
+1	So far the router is working flawlessly so no worries about factory refurbished routers and who does not want to save money nowadays?
+1	Literally 10 minutes to wireless connectivity.
+1	I am very happy with my purchase.
+1	I am not one that knows a lot about electronics and I was able to easily get everything connected and running.
+1	The Cisco-Linksys WRT160N wireless router was easy to set up and has worked  flawlessly so far.
+1	"In my opinion, it is an excellent value for the money."
+1	is also worth purchasing.
+1	"It enables other devices, such as printers, to be connected wirelessly and to share files among computers on the network."
+1	This router is faster and has a much more consistent connection.
+1	Connect speed has consistently been over 110 mbps.
+1	Signal strength varies according to modem conditions and location of the router.
+1	The dual band allows for better connect speed as well and no little antennas to deal with.
+1	"Fantastic easy to install, great coverage, if i could give more than 5 stars for range, I would."
+1	Everything i need and no complaints.
+1	"This router gets the job done, looks sleek, and has a nicer smaller wall plug, so it fits in better into my power strip with all the other big plugs."
+1	Have had no problems with it so far
+1	The wireless-N capability and decent price made it look like a good investment.
+1	Set-up with the provided install-disc took less than 10 minutes.
+1	"The bundled software did a decent job at monitoring network status and providing shortcuts for settings some parameters, but it was hardly necessary."
+1	"After installing the software, I connected my desktop via ethernet, and all was well."
+1	"The management page was clean and easy to navigate, and I had a WPA2 wireless network set up in no time."
+1	Pros -Sleek design; great finish and styling Easy setup; plug and play; no compatibility issues Familiar web interface for configuration Expanded network range
+1	"And customer service, as nice as they may be, have no solutions."
+1	"Then, my internet experience is flawless."
+1	"Overall this item works just fine and I have no complaints, I just gave it 4 stars because to say I love it seems a bit much...I upgraded from a D-link wireless-G router and have been very impressed with the increase in speed on my wireless network."
+1	"If you just surf the web, etc., this single band router is likely the way to go."
+1	"This router is fast, 100% reliable and an amazing value for the money, especially for someone like me - I am not an IT person, all I want it to do is to connect a number of laptops to a printer and to the web."
+1	"I do not care about any extra features, but it must be totally reliable and easy to use because I am 100% dependent on it as I work from home."
+1	After using this router for about 3 months on a very intense 24-7 basis I can say that it met all my expectations 100%.
+1	It was very easy to setup and took less than 5 minutes to install.
+1	I also found the 7 day trial of Cisco Magic Pro software very helpful and will probably purchase that as well.
+1	"I was concerned about coverage to the basement of the house, but had no issues."

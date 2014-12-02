@@ -1,0 +1,26 @@
+C:\Python27\python.exe "C:\Program Files (x86)\JetBrains\PyCharm Community Edition 3.4.1\helpers\pydev\pydevd.py" --multiproc --client 127.0.0.1 --port 53812 --file C:/Users/Vincent/PycharmProjects/OrangeScripts/TestPerformance.py
+pydev debugger: process 18216 is connecting
+
+Connected to pydev debugger (build 135.1057)
+Results: Has Topic? Y/N
+Firmware:
+Precision: 1.0/0.980310880829
+Recall: 0.672413793103/1.0
+
+Installation:
+Precision: 0.611111111111/0.974835886214
+Recall: 0.705128205128/0.962203023758
+
+Performance:
+Precision: 0.59649122807/0.959873284055
+Recall: 0.472222222222/0.975321888412
+
+Usability:
+Precision: 0.273504273504/0.832018038331
+Recall: 0.17679558011/0.896719319563
+
+Support:
+Precision: 0.64/0.965408805031
+Recall: 0.492307692308/0.980830670927
+
+Process finished with exit code -1

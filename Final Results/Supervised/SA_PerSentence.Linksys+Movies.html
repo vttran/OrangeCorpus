@@ -1,0 +1,141 @@
+<html>
+<head>
+	<title>Orange viewer</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<style>
+html, body, table {
+	font:normal 10px verdana;
+	margin:0px;
+	padding:0;
+	border:0 none;	
+}
+p {
+	margin:5px;
+}
+
+h1, h2 , h3, h4, h5 {
+   font-family: verdana;
+   width: 100%;
+   padding: 1px;
+   margin: 2px;
+   font-size:100%;
+}
+
+h1 {
+   color: white;
+   background-color: black;
+   padding-left: 2px;
+   margin-top: 12px;
+}
+
+h2 {
+   background-color: #fdffd5;
+   border-bottom: 1px solid black;
+   padding-left: 2px;
+}
+
+ul {
+   margin-left: 10px;
+}
+
+div.insideh1 {
+   padding-left: 4px;
+}
+
+.settings {
+	background-image:url(ext-2.0-rc1/examples/shared/icons/fam/folder_wrench.png);
+}
+.nav {
+	background-image:url(ext-2.0-rc1/examples/shared/icons/fam/folder_go.png);
+}
+
+span.timestamp {
+    position: absolute;
+	right: 40px;
+	color:#dddddd;
+}
+
+div.selected {
+	border: 1px solid black;
+	padding: 3px;
+	/* background-color: #FDFFA5; */
+	margin: 4px;
+}
+
+div.normal {
+	border: 0px;
+	padding: 3px;
+	/* background-color: #FDFFD5;*/
+	margin: 5px;
+}
+
+</style>
+
+<body><table width="100%"><tr><td valign="top"><p style="padding-top:25px;">Index</p><a href="#N001">Confusion Matrix</a><br/><a href="#N002">Confusion Matrix</a><br/><a href="#N003">Confusion Matrix (1)</a><br/><a href="#N004">Confusion Matrix (1)</a></td><td><div id="N001" onClick="myself.changeItem(this.id);">    <a name="N001">    <h1>Confusion Matrix<span class="timestamp">Sat Oct 18 14, 18:30:56</span></h1>    <div class="insideh1">        
+
+<h2>Contents</h2>
+
+    <ul><b>Learner: </b>Amazon Router<br/><b>Data: </b>Proportions of predicted<br/></ul>
+
+
+<h2>Matrix</h2>
+
+<table>
+<tr><td></td><td align="center"><b>&nbsp;&nbsp;0&nbsp;&nbsp;</b></td><td align="center"><b>&nbsp;&nbsp;1&nbsp;&nbsp;</b></td></tr>
+<tr><th align="right"><b>0</b></th><td align="center"> 74.8 %  </td><td align="center"> 28.6 %  </td><th align="right"><b> 370 </b></th></tr>
+<tr><th align="right"><b>1</b></th><td align="center"> 25.2 %  </td><td align="center"> 71.4 %  </td><th align="right"><b> 272 </b></th></tr>
+<tr><th></th><td align="center"><b> 404 </b></td><td align="center"><b> 238 </b></td><td align="center"><b> 642 </b></td></tr>
+</table>
+<p><b>Note:</b> columns represent predictions, row represent true classes</p>    </div></div>
+<div id="N002" onClick="myself.changeItem(this.id);">    <a name="N002">    <h1>Confusion Matrix<span class="timestamp">Sat Oct 18 14, 18:31:04</span></h1>    <div class="insideh1">        
+
+<h2>Contents</h2>
+
+    <ul><b>Learner: </b>Amazon Router<br/><b>Data: </b>Proportions of true<br/></ul>
+
+
+<h2>Matrix</h2>
+
+<table>
+<tr><td></td><td align="center"><b>&nbsp;&nbsp;0&nbsp;&nbsp;</b></td><td align="center"><b>&nbsp;&nbsp;1&nbsp;&nbsp;</b></td></tr>
+<tr><th align="right"><b>0</b></th><td align="center"> 81.6 %  </td><td align="center"> 18.4 %  </td><th align="right"><b> 370 </b></th></tr>
+<tr><th align="right"><b>1</b></th><td align="center"> 37.5 %  </td><td align="center"> 62.5 %  </td><th align="right"><b> 272 </b></th></tr>
+<tr><th></th><td align="center"><b> 404 </b></td><td align="center"><b> 238 </b></td><td align="center"><b> 642 </b></td></tr>
+</table>
+<p><b>Note:</b> columns represent predictions, row represent true classes</p>    </div></div>
+<div id="N003" onClick="myself.changeItem(this.id);">    <a name="N003">    <h1>Confusion Matrix (1)<span class="timestamp">Sat Oct 18 14, 18:31:43</span></h1>    <div class="insideh1">        
+
+<h2>Contents</h2>
+
+    <ul><b>Learner: </b>Movies<br/><b>Data: </b>Proportions of predicted<br/></ul>
+
+
+<h2>Matrix</h2>
+
+<table>
+<tr><td></td><td align="center"><b>&nbsp;&nbsp;0&nbsp;&nbsp;</b></td><td align="center"><b>&nbsp;&nbsp;1&nbsp;&nbsp;</b></td></tr>
+<tr><th align="right"><b>0</b></th><td align="center"> 63.2 %  </td><td align="center"> 38.4 %  </td><th align="right"><b> 1026 </b></th></tr>
+<tr><th align="right"><b>1</b></th><td align="center"> 36.8 %  </td><td align="center"> 61.6 %  </td><th align="right"><b> 974 </b></th></tr>
+<tr><th></th><td align="center"><b> 1040 </b></td><td align="center"><b> 960 </b></td><td align="center"><b> 2000 </b></td></tr>
+</table>
+<p><b>Note:</b> columns represent predictions, row represent true classes</p>    </div></div>
+<div id="N004" onClick="myself.changeItem(this.id);">    <a name="N004">    <h1>Confusion Matrix (1)<span class="timestamp">Sat Oct 18 14, 18:31:47</span></h1>    <div class="insideh1">        
+
+<h2>Contents</h2>
+
+    <ul><b>Learner: </b>Movies<br/><b>Data: </b>Proportions of true<br/></ul>
+
+
+<h2>Matrix</h2>
+
+<table>
+<tr><td></td><td align="center"><b>&nbsp;&nbsp;0&nbsp;&nbsp;</b></td><td align="center"><b>&nbsp;&nbsp;1&nbsp;&nbsp;</b></td></tr>
+<tr><th align="right"><b>0</b></th><td align="center"> 64.0 %  </td><td align="center"> 36.0 %  </td><th align="right"><b> 1026 </b></th></tr>
+<tr><th align="right"><b>1</b></th><td align="center"> 39.3 %  </td><td align="center"> 60.7 %  </td><th align="right"><b> 974 </b></th></tr>
+<tr><th></th><td align="center"><b> 1040 </b></td><td align="center"><b> 960 </b></td><td align="center"><b> 2000 </b></td></tr>
+</table>
+<p><b>Note:</b> columns represent predictions, row represent true classes</p>    </div></div></td></tr></table>
+
+ </body>
+</html>

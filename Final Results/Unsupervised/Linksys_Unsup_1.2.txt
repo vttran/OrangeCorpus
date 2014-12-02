@@ -1,0 +1,111 @@
+Running script:
+Association rules:
+support=0.002, confidence=0.5
+0.004  0.538  D_upgrade=<=1.19 -> D_firmware=<=1.05
+0.004  0.500  D_upgrade=(1.19, 1.41] -> D_firmware=(1.05, 1.28]
+0.005  0.600  D_upgrade=>1.41 -> D_firmware=>1.28
+0.002  0.800  D_late=<=1.56 -> D_firmware=<=1.05
+0.002  0.667  D_late=>2.06 -> D_firmware=>1.28
+0.003  0.833  D_ethernet=<=1.39 -> D_connect=<=0.91
+0.002  0.571  D_really=<=1.39 -> D_need=<=0.95
+0.002  0.571  D_mbp=<=1.70 -> D_speed=<=1.00
+0.002  0.571  D_warranty=<=1.19 -> D_call=<=1.04
+0.002  0.667  D_anyone=<=1.42 -> D_would=<=0.86
+0.002  0.667  D_download=(1.38, 1.53] -> D_speed=(1.00, 1.18]
+0.003  0.625  D_slow=(1.27, 1.55] -> D_speed=(1.00, 1.18]
+0.004  0.538  D_update=<=1.11 -> D_firmware=<=1.05
+0.003  0.714  D_ago=(1.89, 2.01] -> D_month=(1.38, 1.61]
+0.006  0.688  D_tech=<=1.07 -> D_support=<=0.92
+0.006  0.667  D_tech=(1.07, 1.43] -> D_support=(0.92, 1.22]
+0.005  0.556  D_tech=>1.43 -> D_support=>1.22
+0.003  0.556  D_told=<=1.27 -> D_customer=<=1.05
+0.002  1.000  D_spent=(1.41, 1.85] -> D_hour=(1.08, 1.31]
+0.002  0.500  D_room=(1.58, 1.97] -> D_would=(0.86, 1.19]
+0.003  0.750  D_ddwrt=<=1.29 -> D_firmware=<=1.05
+0.004  0.727  D_fine=<=1.18 -> D_work=<=0.70
+0.004  0.583  D_fine=>1.57 -> D_work=(0.70, 0.99]
+0.002  0.571  D_mac=(1.46, 1.77] -> D_pc=(1.32, 1.63]
+0.002  1.000  D_cycle=<=1.13 -> D_power=<=1.12
+0.002  0.800  D_cycle=(1.13, 1.73] -> D_power=(1.12, 1.63]
+0.003  0.833  D_magic=>1.65 -> D_network=>1.27
+0.002  0.571  D_house=<=1.42 -> D_range=<=1.19
+0.002  0.571  D_house=<=1.42 -> D_work=<=0.70
+0.003  0.600  D_seem=<=1.16 -> D_work=<=0.70
+0.003  0.667  D_far=<=1.41 -> D_work=<=0.70
+0.002  0.667  D_allow=<=1.32 -> D_wireless=<=0.83
+0.002  0.667  D_allow=<=1.32 -> D_work=<=0.70
+0.006  0.500  D_easy=<=1.19 -> D_setup=(0.87, 1.11]
+0.007  0.500  D_easy=(1.19, 1.66] -> D_setup=>1.11
+0.007  0.500  D_easy=>1.66 -> D_setup=>1.11
+0.006  0.667  D_drop=<=1.03 -> D_connection=<=0.91
+0.003  0.833  D_belkin=<=1.56 -> D_work=<=0.70
+0.002  1.000  D_highly=(1.73, 2.71] -> D_recommend=(1.33, 2.09]
+0.003  1.000  D_highly=>2.71 -> D_recommend=>2.09
+0.004  0.538  D_service=>1.50 -> D_customer=>1.35
+0.002  0.571  D_dn=<=1.44 -> D_wrtnv=<=1.13
+0.002  0.667  D_tech=<=1.07 D_call=<=1.04 -> D_support=<=0.92
+0.003  0.714  D_call=(1.04, 1.39] D_support=(0.92, 1.22] -> D_tech=(1.07, 1.43]
+0.003  1.000  D_tech=(1.07, 1.43] D_call=(1.04, 1.39] -> D_support=(0.92, 1.22]
+0.002  0.800  D_connect=<=0.91 D_drop=<=1.03 -> D_connection=<=0.91
+0.002  0.571  D_connect=<=0.91 D_connection=<=0.91 -> D_drop=<=1.03
+0.002  0.800  D_wireless=<=0.83 D_setup=(0.87, 1.11] -> D_easy=<=1.19
+0.002  0.800  D_wireless=<=0.83 D_easy=<=1.19 -> D_setup=(0.87, 1.11]
+0.002  0.667  D_wireless=<=0.83 D_drop=<=1.03 -> D_connection=<=0.91
+0.002  0.571  D_wireless=<=0.83 D_connection=<=0.91 -> D_drop=<=1.03
+
+firmware = [['firmware', 'upgrade'], ['update', 'firmware'], ['ddwrt','firmware'], ['late','firmware']]
+installation = [['setup','easy']]
+performance = [['speed', 'connection'], ['far', 'work'], ['signal','wireless'] ,['internet','connection'],['mpb','speed']
+                    ['download','speed'], ['slow','speed'], ['house','range']]
+usability = [['could','connection'], ['laptop', 'connect'], ['device', 'connect'], ['work', 'fine'],
+             ['laptop ','wireless'], ['device','wireless'],['seem','work'],['drop','wireless'], ['great','work'],
+             ['internet', 'work'], ['internet', 'wireless'], ['drop','connection'], ['power','cycle']]
+support = [['tech','call'],['customer','call'],['tech', 'support'],['support','call'],['service','call'],
+            ['customer','support'], ['customer','service'],['warranty','call']]
+
+
+C:\Python27\python.exe "C:\Program Files (x86)\JetBrains\PyCharm Community Edition 3.4.1\helpers\pydev\pydevd.py" --multiproc --client 127.0.0.1 --port 9653 --file C:/Users/Vincent/PycharmProjects/OrangeScripts/TestPerformance.py
+pydev debugger: process 13436 is connecting
+
+Connected to pydev debugger (build 135.1057)
+Results: Has Topic? Y/N
+Firmware:
+Precision: 0.931818181818/0.997916666667
+Recall: 0.953488372093/0.996878251821
+
+Installation:
+Precision: 0.846153846154/0.892857142857
+Recall: 0.301369863014/0.990675990676
+
+Performance:
+Precision: 0.294444444444/0.969660194175
+Recall: 0.679487179487/0.862850971922
+
+Usability:
+Precision: 0.354838709677/0.951058201058
+Recall: 0.704/0.817974971559
+
+Support:
+Precision: 0.818181818182/0.966280295047
+Recall: 0.584415584416/0.989212513484
+
+Process finished with exit code -1
+
+
+C:\Python27\python.exe "C:\Program Files (x86)\JetBrains\PyCharm Community Edition 3.4.1\helpers\pydev\pydevd.py" --multiproc --client 127.0.0.1 --port 10472 --file C:/Users/Vincent/PycharmProjects/OrangeScripts/WhosTalkin.py
+pydev debugger: process 11612 is connecting
+
+Connected to pydev debugger (build 135.1057)
+
+Result: Topic: % Pos/ % Neg / Total Mentions
+Firmware: 25.8823529412%/ 74.1176470588%/ 255
+Performance: 46.3994060876%/ 53.6005939124%/ 1347
+Usability: 48.8088320744%/ 51.1911679256%/ 1721
+Support: 37.1980676329%/ 62.8019323671%/ 414
+Installation 57.800511509%/ 42.199488491%/ 391
+
+Process finished with exit code -1
+
+
+
+

@@ -1,0 +1,59 @@
+>>> 
+Running script:
+Association rules:
+0.001  0.538  D_netflix=(1.38, 1.64] -> D_stream=(1.17, 1.44]	=>Performance
+0.001  0.474  D_share=<=1.35 -> D_usb=<=1.14			=>Feature
+0.001  0.542  D_restart=<=1.79 -> D_router=<=0.43		=>Usability
+0.002  0.435  D_video=<=1.23 -> D_stream=<=1.17			=>PErformance
+0.001  0.433  D_configure=<=1.35 -> D_router=<=0.43		=>Install
+0.002  0.667  D_strength=<=1.33 -> D_signal=<=1.06		=>Perf
+0.001  0.500  D_strength=(1.33, 1.68] -> D_router=<=0.43	=>Perf	
+0.001  0.600  D_strong=<=1.58 -> D_signal=<=1.06		=>Perf
+0.001  0.640  D_stop=>2.03 -> D_work=>1.04			=>Use
+0.001  1.000  D_parental=>2.13 -> D_control=>1.74		=>feature
+0.001  0.487  D_version=(1.46, 1.76] -> D_firmware=(1.02, 1.26]	=>firm
+0.001  0.469  D_mbp=<=1.61 -> D_router=<=0.43			=>perf
+0.001  0.696  D_forum=<=1.44 -> D_netgear=<=0.71		=>support
+0.003  0.441  D_far=<=1.33 -> D_router=<=0.43			=>perf
+0.001  0.455  D_told=<=1.36 -> D_support=<=0.90			=>supp
+0.001  0.500  D_external=<=1.39 -> D_drive=<=1.17		=>feat
+0.002  0.509  D_performance=<=1.35 -> D_router=<=0.43		=>Perf
+0.001  0.481  D_late=>1.86 -> D_firmware=>1.26			=>Firm
+0.002  0.553  D_reboot=<=1.37 -> D_router=<=0.43		=>Use
+0.001  0.679  D_storage=<=1.38 -> D_usb=<=1.14			=>feat
+0.003  0.420  D_drive=<=1.17 -> D_usb=<=1.14			=>feat
+0.003  0.603  D_fine=<=1.39 -> D_work=<=0.78			=>use
+0.007  0.407  D_problem=<=0.90 -> D_router=<=0.43		=>use
+0.002  0.406  D_customer=<=1.22 -> D_service=<=1.22		=>supp
+0.005  0.419  D_issue=<=1.03 -> D_router=<=0.43			=>use
+0.005  0.726  D_tech=<=1.14 -> D_support=<=0.90			=>sup
+0.001  0.500  D_die=<=1.65 -> D_router=<=0.43			=>use
+0.005  0.400  D_good=<=1.03 -> D_router=<=0.43			=>use
+0.004  0.547  D_update=(1.18, 1.51] -> D_firmware=(1.02, 1.26]	=>firm
+0.003  0.433  D_drop=>1.44 -> D_connection=>1.14		=>use
+0.001  0.469  D_easy=<=1.09 D_use=<=0.77 -> D_setup=<=1.03	=>install	
+0.001  0.500  D_easy=<=1.09 D_use=<=0.77 -> D_router=<=0.43	=>use	
+0.001  0.419  D_easy=(1.09, 1.50] D_router=(0.43, 0.57] -> D_set=(0.99, 1.38] =>install
+0.001  0.433  D_range=<=1.04 D_use=<=0.77 -> D_router=<=0.43	=>perf
+0.001  0.500  D_use=<=0.77 D_device=<=0.88 -> D_router=<=0.43	=>use
+0.001  0.405  D_use=<=0.77 D_work=<=0.78 -> D_router=<=0.43	=>use
+0.001  0.650  D_fine=<=1.39 D_router=<=0.43 -> D_work=<=0.78	=>use
+0.001  0.417  D_great=(1.04, 1.51] D_router=(0.43, 0.57] -> D_work=(0.78, 1.04] =>use
+0.001  0.517  D_problem=<=0.90 D_support=<=0.90 -> D_netgear=<=0.71	=>support
+>>> 
+
+
+C:\Python27\python.exe "C:\Program Files (x86)\JetBrains\PyCharm Community Edition 3.4.1\helpers\pydev\pydevd.py" --multiproc --client 127.0.0.1 --port 28290 --file C:/Users/Vincent/PycharmProjects/OrangeScripts/WhosTalkin.py
+pydev debugger: process 9904 is connecting
+
+Connected to pydev debugger (build 135.1057)
+
+Result: Topic: % Pos/ % Neg / Total Mentions
+Firmware: 26.4788732394%/ 73.5211267606%/ 710
+Features: 36.2694300518%/ 63.7305699482%/ 386
+Performance: 51.0067114094%/ 48.9932885906%/ 4619
+Usability: 49.6008435005%/ 50.3991564995%/ 6639
+Support: 29.8314386515%/ 70.1685613485%/ 2551
+Installation 50.7611906385%/ 49.2388093615%/ 4401
+
+Process finished with exit code -1

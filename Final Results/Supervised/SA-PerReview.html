@@ -1,0 +1,171 @@
+<html>
+<head>
+	<title>Orange viewer</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<style>
+html, body, table {
+	font:normal 10px verdana;
+	margin:0px;
+	padding:0;
+	border:0 none;	
+}
+p {
+	margin:5px;
+}
+
+h1, h2 , h3, h4, h5 {
+   font-family: verdana;
+   width: 100%;
+   padding: 1px;
+   margin: 2px;
+   font-size:100%;
+}
+
+h1 {
+   color: white;
+   background-color: black;
+   padding-left: 2px;
+   margin-top: 12px;
+}
+
+h2 {
+   background-color: #fdffd5;
+   border-bottom: 1px solid black;
+   padding-left: 2px;
+}
+
+ul {
+   margin-left: 10px;
+}
+
+div.insideh1 {
+   padding-left: 4px;
+}
+
+.settings {
+	background-image:url(ext-2.0-rc1/examples/shared/icons/fam/folder_wrench.png);
+}
+.nav {
+	background-image:url(ext-2.0-rc1/examples/shared/icons/fam/folder_go.png);
+}
+
+span.timestamp {
+    position: absolute;
+	right: 40px;
+	color:#dddddd;
+}
+
+div.selected {
+	border: 1px solid black;
+	padding: 3px;
+	/* background-color: #FDFFA5; */
+	margin: 4px;
+}
+
+div.normal {
+	border: 0px;
+	padding: 3px;
+	/* background-color: #FDFFD5;*/
+	margin: 5px;
+}
+
+</style>
+
+<body><table width="100%"><tr><td valign="top"><p style="padding-top:25px;">Index</p><a href="#N001">SA Amazon Test Learner</a><br/><a href="#N002">SA Amazon Test Learner</a><br/><a href="#N003">Confusion Matrix</a><br/><a href="#N004">Confusion Matrix</a><br/><a href="#N005">Confusion Matrix</a><br/><a href="#N006">Confusion Matrix</a></td><td><div id="N001" onClick="myself.changeItem(this.id);">    <a name="N001">    <h1>SA Amazon Test Learner<span class="timestamp">Fri Oct 24 14, 16:03:06</span></h1>    <div class="insideh1">        
+
+<h2>Validation method</h2>
+
+    <ul><b>Method: </b>Cross-validation<br/><b>Folds: </b>10<br/><b>Target class: </b>Pos<br/></ul>
+
+
+<h2>Data</h2>
+
+    <ul><b>Examples: </b>1109<br/><b>Attributes: </b>419 (basic, completely, magic, page, already, unit, manual, add, ten, part, someone, review, deal, unplug, wrong, fix, often, cheap, person, video, comcast, wait, others, 20, thought, macbook, luck, run, process, power...)<br/><b>Class: </b>Rating<br/></ul>
+
+
+<h2>Results</h2>
+
+<table><tr><th></th><th><b>CA</b></th><th><b>Prec</b></th><th><b>Recall</b></th></tr><tr><th><b>SVM-Linksys-ReviewLev</b></th><td>0.7836</td><td>0.8063</td><td>0.8910</td></tr><tr><th><b>Bayesian-Linksys-ReviewLev</b></th><td>0.7449</td><td>0.8186</td><td>0.7954</td></tr></table>    </div></div>
+<div id="N002" onClick="myself.changeItem(this.id);">    <a name="N002">    <h1>SA Amazon Test Learner<span class="timestamp">Fri Oct 24 14, 16:03:16</span></h1>    <div class="insideh1">        
+
+<h2>Validation method</h2>
+
+    <ul><b>Method: </b>Cross-validation<br/><b>Folds: </b>10<br/><b>Target class: </b>Neg<br/></ul>
+
+
+<h2>Data</h2>
+
+    <ul><b>Examples: </b>1109<br/><b>Attributes: </b>419 (basic, completely, magic, page, already, unit, manual, add, ten, part, someone, review, deal, unplug, wrong, fix, often, cheap, person, video, comcast, wait, others, 20, thought, macbook, luck, run, process, power...)<br/><b>Class: </b>Rating<br/></ul>
+
+
+<h2>Results</h2>
+
+<table><tr><th></th><th><b>CA</b></th><th><b>Prec</b></th><th><b>Recall</b></th></tr><tr><th><b>SVM-Linksys-ReviewLev</b></th><td>0.7836</td><td>0.7188</td><td>0.5656</td></tr><tr><th><b>Bayesian-Linksys-ReviewLev</b></th><td>0.7449</td><td>0.6072</td><td>0.6421</td></tr></table>    </div></div>
+<div id="N003" onClick="myself.changeItem(this.id);">    <a name="N003">    <h1>Confusion Matrix<span class="timestamp">Fri Oct 24 14, 16:04:15</span></h1>    <div class="insideh1">        
+
+<h2>Contents</h2>
+
+    <ul><b>Learner: </b>SVM-Linksys-ReviewLev<br/><b>Data: </b>Proportions of predicted<br/></ul>
+
+
+<h2>Matrix</h2>
+
+<table>
+<tr><td></td><td align="center"><b>&nbsp;&nbsp;Neg&nbsp;&nbsp;</b></td><td align="center"><b>&nbsp;&nbsp;Pos&nbsp;&nbsp;</b></td></tr>
+<tr><th align="right"><b>Neg</b></th><td align="center"> 71.9 %  </td><td align="center"> 19.4 %  </td><th align="right"><b> 366 </b></th></tr>
+<tr><th align="right"><b>Pos</b></th><td align="center"> 28.1 %  </td><td align="center"> 80.6 %  </td><th align="right"><b> 743 </b></th></tr>
+<tr><th></th><td align="center"><b> 288 </b></td><td align="center"><b> 821 </b></td><td align="center"><b> 1109 </b></td></tr>
+</table>
+<p><b>Note:</b> columns represent predictions, row represent true classes</p>    </div></div>
+<div id="N004" onClick="myself.changeItem(this.id);">    <a name="N004">    <h1>Confusion Matrix<span class="timestamp">Fri Oct 24 14, 16:04:18</span></h1>    <div class="insideh1">        
+
+<h2>Contents</h2>
+
+    <ul><b>Learner: </b>SVM-Linksys-ReviewLev<br/><b>Data: </b>Proportions of true<br/></ul>
+
+
+<h2>Matrix</h2>
+
+<table>
+<tr><td></td><td align="center"><b>&nbsp;&nbsp;Neg&nbsp;&nbsp;</b></td><td align="center"><b>&nbsp;&nbsp;Pos&nbsp;&nbsp;</b></td></tr>
+<tr><th align="right"><b>Neg</b></th><td align="center"> 56.6 %  </td><td align="center"> 43.4 %  </td><th align="right"><b> 366 </b></th></tr>
+<tr><th align="right"><b>Pos</b></th><td align="center"> 10.9 %  </td><td align="center"> 89.1 %  </td><th align="right"><b> 743 </b></th></tr>
+<tr><th></th><td align="center"><b> 288 </b></td><td align="center"><b> 821 </b></td><td align="center"><b> 1109 </b></td></tr>
+</table>
+<p><b>Note:</b> columns represent predictions, row represent true classes</p>    </div></div>
+<div id="N005" onClick="myself.changeItem(this.id);">    <a name="N005">    <h1>Confusion Matrix<span class="timestamp">Fri Oct 24 14, 16:04:23</span></h1>    <div class="insideh1">        
+
+<h2>Contents</h2>
+
+    <ul><b>Learner: </b>Bayesian-Linksys-ReviewLev<br/><b>Data: </b>Proportions of predicted<br/></ul>
+
+
+<h2>Matrix</h2>
+
+<table>
+<tr><td></td><td align="center"><b>&nbsp;&nbsp;Neg&nbsp;&nbsp;</b></td><td align="center"><b>&nbsp;&nbsp;Pos&nbsp;&nbsp;</b></td></tr>
+<tr><th align="right"><b>Neg</b></th><td align="center"> 60.7 %  </td><td align="center"> 18.1 %  </td><th align="right"><b> 366 </b></th></tr>
+<tr><th align="right"><b>Pos</b></th><td align="center"> 39.3 %  </td><td align="center"> 81.9 %  </td><th align="right"><b> 743 </b></th></tr>
+<tr><th></th><td align="center"><b> 387 </b></td><td align="center"><b> 722 </b></td><td align="center"><b> 1109 </b></td></tr>
+</table>
+<p><b>Note:</b> columns represent predictions, row represent true classes</p>    </div></div>
+<div id="N006" onClick="myself.changeItem(this.id);">    <a name="N006">    <h1>Confusion Matrix<span class="timestamp">Fri Oct 24 14, 16:04:26</span></h1>    <div class="insideh1">        
+
+<h2>Contents</h2>
+
+    <ul><b>Learner: </b>Bayesian-Linksys-ReviewLev<br/><b>Data: </b>Proportions of true<br/></ul>
+
+
+<h2>Matrix</h2>
+
+<table>
+<tr><td></td><td align="center"><b>&nbsp;&nbsp;Neg&nbsp;&nbsp;</b></td><td align="center"><b>&nbsp;&nbsp;Pos&nbsp;&nbsp;</b></td></tr>
+<tr><th align="right"><b>Neg</b></th><td align="center"> 64.2 %  </td><td align="center"> 35.8 %  </td><th align="right"><b> 366 </b></th></tr>
+<tr><th align="right"><b>Pos</b></th><td align="center"> 20.5 %  </td><td align="center"> 79.5 %  </td><th align="right"><b> 743 </b></th></tr>
+<tr><th></th><td align="center"><b> 387 </b></td><td align="center"><b> 722 </b></td><td align="center"><b> 1109 </b></td></tr>
+</table>
+<p><b>Note:</b> columns represent predictions, row represent true classes</p>    </div></div></td></tr></table>
+
+ </body>
+</html>
